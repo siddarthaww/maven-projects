@@ -32,7 +32,7 @@
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<organization>LnD</organization>
-					<environment>dev</environment>
+					<environment>DEV</environment>
 				</configuration>
 				<executions>
 					<execution>
