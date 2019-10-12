@@ -31,7 +31,7 @@
 					<password>Mulesoft427</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
-					<organization>LnD</organization>
+					<!-- <organization>LnD</organization> -->
 					<environment>DEV</environment>
 				</configuration>
 				<executions>
